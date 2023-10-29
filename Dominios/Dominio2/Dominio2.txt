@@ -1,0 +1,4 @@
+vocales_cerradas = 'aeiouéíóú'
+digitos_permitidos = '23456'
+
+dominio = vocales_cerradas + digitos_permitidos
